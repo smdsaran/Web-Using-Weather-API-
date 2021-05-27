@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    background-color: #C3DBE7;
+   }
+
+    .form-container {
+
+        width: 500px;
+        margin: 0 auto;
+        border: 2px solid #0F2D3D;
+        margin-top: 100px;
+        text-align: center;
+    }
+
+    .input {
+        width: 150px;
+        height: 30px;
+        border: none;
+        border-bottom: 2px solid #0F2D3D ;
+        background-color: #C3DBE7;
+    }
+
+    .container {
+        margin-bottom: 20px;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+
+    .heading {
+        color: #0F670B ;
+        font-family: 'Josefin Sans', sans-serif;
+    }
+
